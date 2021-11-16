@@ -1,0 +1,14 @@
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\bin\Debug\Dumale_CartingProgram.exe.config
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\bin\Debug\Dumale_CartingProgram.exe
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\bin\Debug\Dumale_CartingProgram.pdb
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.csprojAssemblyReference.cache
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.Form1.resources
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.Properties.Resources.resources
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.csproj.GenerateResource.cache
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.exe
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.pdb
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\bin\Debug\Dumale_CartingProgram.exe.manifest
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\bin\Debug\Dumale_CartingProgram.application
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.exe.manifest
+C:\Users\Jeruzael\source\repos\Dumale_CartingProgram\obj\Debug\Dumale_CartingProgram.application
